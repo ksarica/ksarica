@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Experienced in mostly in C# and Unity. 
-- 🌱 Currently learning Game Development and A.I technologies.
+- 🌱 Currently learning Game Development, Mobile Application Development and A.I technologies.
 
 ### 📫 How to reach me:
 
